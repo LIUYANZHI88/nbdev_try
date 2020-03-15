@@ -1,4 +1,31 @@
-# nbdev template
+# Project name here
+> Summary description here.
 
-Use this template to more easily create your nbdev project.
 
+This file will become your README and also the index of your documentation.
+
+## Install
+
+`pip install your_project_name`
+
+## How to use
+
+Fill me in please! Don't forget code examples:
+
+```python
+1+1
+```
+
+
+
+
+    2
+
+
+
+```python
+main()
+```
+
+    this cell is going to be added to the module
+    
